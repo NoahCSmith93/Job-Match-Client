@@ -6,6 +6,7 @@ This is the front end client for the Job Match web application.
 - JavaScript
 - React
 - Bootstrap
+- Axios
 
 ## User Stories
 As a job seeker (talent), I want:
